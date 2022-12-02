@@ -1,7 +1,7 @@
 # O Desafio de Aprendizagem Adaptativa - Qconcurso - SigmaGeek
 
 ## Introdução
-Esta é a minha primeira particpação em competição. Resolvi o case em apenas 2 dias e fiquei entre os 28% melhores.
+Esta é a minha primeira participação em competição. Resolvi o case em apenas 2 dias e fiquei entre os 28% melhores.
 
 Eu sabia que tinha pouco tempo para fazer então tentei entregar um produto rápido e que já serviria de alguma forma, tentando implementar o conceito de MVP (Produto mínimo viável)
 
